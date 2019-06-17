@@ -1,0 +1,8 @@
+Paper Football League
+
+by Josh Klipstein
+
+Change Log
+----------
+
+v1.0 Beta -- First release.  One player only.  Time is set to 1 minute.  Wind enabled by default.  Goal post on left pane of screen, and ball on right pane.  Max launch power is 200.  Ball images number 24, goal post image numbers one, background image numbers one.  
