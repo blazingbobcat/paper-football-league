@@ -6,3 +6,5 @@ Change Log
 ----------
 
 v1.0 Beta -- First release.  One player only.  Time is set to 1 minute.  Wind enabled by default.  Goal post on left pane of screen, and ball on right pane.  Max launch power is 200.  Ball images number 24, goal post image numbers one, background image numbers one.  
+
+v1.0 -- Definitive release.  Offers one- or two-player action.  Main menu added with options and instructions screen.  Options include changing number of players, time limit per game and toggling sound.  Ball images the same, but with different starting rotations for each player.  Added another goal post image to place in opposite direction for player two.  Player one starts with ball on right side of screen with goal post facing left.  Player two starts with reverse set up.  Added sound effects as well in game and in menu.  All major bug fixes made.  Other graphics such as launch arrow and wind gague also modified.  Added more strength to wind to increase challenge.  Added new game over messages that show depending on who wins and who gets high score.  Player now has option to restart game, go to main menu or quit after each game.      
